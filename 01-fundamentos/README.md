@@ -17,4 +17,4 @@ Haz clic en cualquiera de los bloques para acceder directamente a sus guías, ej
 *   Implementar estructuras condicionales avanzadas y flujos lógicos secuenciales estables.
 
 ---
-[🏠 Menú Principal](../README.md)
+[🏠 Volver al Menú Principal](../README.md)
