@@ -1,6 +1,6 @@
 # 📝 Fundamentos de Pseudocódigo
 
-Este espacio contiene la teoría y la resolución de ejercicios prácticos utilizando **PSeInt**. El objetivo es dominar la lógica de programación pura, la asignación de variables y el diseño de algoritmos eficaces.
+Este espacio contiene la teoría y la resolución de ejercicios prácticos utilizando **PSeInt** documentados en formato Markdown. El objetivo es dominar la lógica de programación pura, la asignación de variables y el diseño de algoritmos eficaces.
 
 ---
 
@@ -23,26 +23,33 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 
 ### 📘 Bloque I: Estructuras Secuenciales y Operaciones Básicas
 
-| Ejercicio / Descripción | Código Fuente | Diagrama de Flujo / Solución |
-| :--- | :---: | :---: |
-| **Ejercicios 1 al 4** <br> _Bloque inicial de problemas_ | *N/A* | [📄 Ver Soluciones (PDF)](<./Ejercicios(PARTE_1)/soluciones_ejercicios(1-4).pdf>) |
-| **Ejercicio 5** <br> _Intercambio de variables con auxiliar_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo_ejercicio5.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio5.png>) |
-| **Ejercicio 6** <br> _Cálculo de operaciones aritméticas_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/6-CalcularOperaciones.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio6.png>) |
-| **Ejercicio 7** <br> _Cálculo de salario de un trabajador_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio7.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/pseudocodigo-Tema1_ejercicio7.png>) |
-| **Ejercicio 8** <br> _Cálculo de porcentajes de alumnos_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio8.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/pseudocodigo-Tema1_ejercicio8.png>) |
-| **Ejercicio 9** <br> _Conversión de segundos a HH:MM:SS_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio9.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio9.png>) |
+| Ejercicio / Descripción | Solución y Código Fuente |
+| :--- | :---: |
+| **Ejercicios 1 al 4** <br> _Bloque inicial de problemas_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio1-4.md>) |
+| **Ejercicio 5** <br> _Intercambio de variables con auxiliar_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio5.md>) |
+| **Ejercicio 6** <br> _Cálculo de operaciones aritméticas_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio6.md>) |
+| **Ejercicio 7** <br> _Cálculo de salario de un trabajador_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio7.md>) |
+| **Ejercicio 8** <br> _Cálculo de porcentajes de alumnos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio8.md>) |
+| **Ejercicio 9** <br> _Conversión de segundos a HH:MM:SS_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio9.md>) |
+| **Ejercicio 10** <br> _Calcular segundos faltantes para un minuto_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio10.md>) |
 
 ### 📙 Bloque II: Algoritmia Avanzada y Conversiones
 
-| Ejercicio / Descripción | Código Fuente | Diagrama de Flujo / Solución |
-| :--- | :---: | :---: |
-| **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.pdf>)<br>[🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.png>)|
-| **Ejercicio 2** <br> _Comparación de Dos Números (Mayor o Iguales)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.pdf>)<br>[🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.png>)|
----
+| Ejercicio / Descripción | Solución y Código Fuente |
+| :--- | :---: |
+| **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.md>) |
+| **Ejercicio 2** <br> _Comparación de Dos Números (Mayor o Iguales)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.md>) |
+| **Ejercicio 3** <br> _Determinar si un número entero es par, impar o cero_ |[📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio3.md>) |
+| **Ejercicio 4** <br>_Cálculo de promedio y estado de alumno (Aprueba/Suspende)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio4.md>) |
+| **Ejercicio 5** <br> _Cálculo de salario con incremento por horas extras_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio5.md>) |
+| **Ejercicio 6** <br> _Encontrar el número mayor de tres datos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio6.md>) |
+| **Ejercicio 7** <br> _Convertir calificación numérica a alfabética_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio7.md>) |
 
+---
+  
 ## 🛠️ Especificaciones Técnicas
 * **Entorno:** PSeInt (Configuración estándar).
-* **Sintaxis:** En los scripts se utilizan indistintamente los comandos `Escribir` e `Imprimir` para la salida de datos estándar.
+* **Sintaxis:** Dentro de las soluciones documentadas en Markdown encontrarás tanto el algoritmo en lenguaje natural como el bloque de código estructurado de PSeInt.
 
 ---
 [⬅️ Volver al módulo de Fundamentos](../README.md) | [🏠 Menú Principal](../../README.md)
