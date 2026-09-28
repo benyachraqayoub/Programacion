@@ -36,7 +36,7 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 
 | Ejercicio / Descripción | Código Fuente | Diagrama de Flujo / Solución |
 | :--- | :---: | :---: |
-| **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.pdf>)
+| **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.pdf>)<br>[🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.png>)|
 ---
 
 ## 🛠️ Especificaciones Técnicas
