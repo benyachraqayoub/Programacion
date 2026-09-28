@@ -30,13 +30,14 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 6** <br> _Cálculo de operaciones aritméticas_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/6-CalcularOperaciones.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio6.png>) |
 | **Ejercicio 7** <br> _Cálculo de salario de un trabajador_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio7.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/pseudocodigo-Tema1_ejercicio7.png>) |
 | **Ejercicio 8** <br> _Cálculo de porcentajes de alumnos_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio8.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/pseudocodigo-Tema1_ejercicio8.png>) |
-| **Ejercicio 9** <br> _Conversión de segundos a HH:MM:SS_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio9.psc>) | [🖼️ Ver Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio9.png>) |
+| **Ejercicio 9** <br> _Conversión de segundos a HH:MM:SS_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_1)/pseudocodigo1_ejercicio9.psc>) | [🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_1)/PSEUDOCODIGO_Tema1_ejercicio9.png>) |
 
 ### 📙 Bloque II: Algoritmia Avanzada y Conversiones
 
 | Ejercicio / Descripción | Código Fuente | Diagrama de Flujo / Solución |
 | :--- | :---: | :---: |
 | **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.pdf>)<br>[🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.png>)|
+| **Ejercicio 2** <br> _Comparación de Dos Números (Mayor o Iguales)_ | [💻 Ver Código .psc](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.psc>) | [📄 Ver Solucion (PDF)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.pdf>)<br>[🖼️ Ver Diagrama .png](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.png>)|
 ---
 
 ## 🛠️ Especificaciones Técnicas
