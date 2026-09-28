@@ -17,4 +17,4 @@ Haz clic en cualquiera de los bloques para acceder directamente a sus guías, ej
 *   Implementar estructuras condicionales avanzadas y flujos lógicos secuenciales estables.
 
 ---
-🚀 *Desarrollado como parte de mi formación en DAW (Desarrollo de Aplicaciones Web).*
+[🏠 Menú Principal](../README.md)
