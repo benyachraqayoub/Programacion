@@ -44,6 +44,11 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 5** <br> _Cálculo de salario con incremento por horas extras_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio5.md>) |
 | **Ejercicio 6** <br> _Encontrar el número mayor de tres datos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio6.md>) |
 | **Ejercicio 7** <br> _Convertir calificación numérica a alfabética_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio7.md>) |
+| **Ejercicio 8** <br> _Horóscopo a partir del Día y Mes_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio8.md>) |
+| **Ejercicio 9** <br> _Repetir Nombre N Veces_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio9.md>) |
+| **Ejercicio 10** <br> _Múltiplos de 3 hasta N_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio10.md>) |
+| **Ejercicio 11** <br> _Cuenta Descendente desde 29_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio11.md>) |
+| **Ejercicio 12** <br> _Múltiplos de 2 o de 3 entre 1 y 100_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio12.md>) |
 
 ---
   
