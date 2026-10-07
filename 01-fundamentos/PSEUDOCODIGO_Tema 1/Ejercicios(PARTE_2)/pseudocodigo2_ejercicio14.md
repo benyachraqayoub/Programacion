@@ -1,27 +1,25 @@
-# Ejercicio — Suma de los N primeros números pares a partir de N
+# Ejercicio — Suma de los N primeros números pares a partir de N (Interpretación Inclusiva)
 
-Algoritmo que lee un número entero N por teclado y calcula la suma acumulada de los N siguientes números pares consecutivos que le siguen de forma estricta. Por ejemplo, si se introduce un 5, el sistema calcula la suma de los 5 primeros pares superiores (6+8+10+12+14).
+Algoritmo que lee un número entero N por teclado y calcula la suma acumulada de los N primeros números pares que se encuentren en el rango que inicia en el propio valor de N. Si N es par, se incluye en la suma; si es impar, se descarta y el ciclo avanza automáticamente.
 
 ---
 
 ## 📝 Algoritmo en Lenguaje Natural
 
 1. **Inicio.**
-2. **Declarar variables:** Crear las variables `N` (para el número introducido y la cantidad de pares requeridos), `actual` (para evaluar el número par en curso), `suma` (como acumulador del total) y `paresGenerados` (como contador para controlar cuántos pares se han sumado).
-3. **Solicitar entrada:** Mostrar un mensaje informativo en pantalla solicitando al usuario introducir el valor de `N`.
-4. **Leer dato:** Capturar el valor numérico ingresado por teclado y asignarlo a la variable `N`.
-5. **Inicializar componentes del algoritmo:**
-   * Limpiar la variable acumuladora asignando el valor cero (`suma <- 0`).
-   * Poner a cero el contador de control de ciclos (`paresGenerados <- 0`).
-   * Establecer el punto de inicio evaluando el número inmediatamente superior a N (`actual <- N + 1`).
-6. **Estructura iterativa (Mientras):** Configurar un ciclo condicional que se repita continuamente **mientras** el contador de control sea estrictamente menor que el límite requerido (`paresGenerados < N`).
-7. **Procesamiento interno del ciclo:** En cada repetición del bucle, validar las siguientes condiciones y pasos:
-   * **Evaluar criterio de paridad:** Verificar mediante una condición lógica si el valor de la variable `actual` es divisible de forma exacta por 2 (`actual Mod 2 = 0`).
-   * **Procesar número par:** Si la condición anterior es verdadera, realizar las siguientes acciones secundarias:
-     * Adicionar el valor de `actual` al acumulador general (`suma <- suma + actual`).
-     * Incrementar en una unidad el contador de control (`paresGenerados <- paresGenerados + 1`).
-   * **Avanzar secuencia:** Incrementar el valor de la variable de trabajo en una unidad (`actual <- actual + 1`) de forma independiente para inspeccionar el siguiente número en la siguiente iteración.
-8. **Mostrar resultado:** Una vez acumulados exactamente los N números pares, romper el ciclo e imprimir en pantalla el valor total almacenado en la variable `suma`.
+2. **Declarar variables:** Crear las variables `N` (límite y cantidad de elementos), `actual` (número en evaluación), `suma` (acumulador del total) y `paresGenerados` (contador de control de elementos sumados).
+3. **Solicitar entrada:** Mostrar un mensaje en pantalla indicando al usuario que introduzca el valor de `N`.
+4. **Leer dato:** Capturar el número entero ingresado por teclado y guardarlo en la variable `N`.
+5. **Inicializar variables de control:**
+   * Asignar cero al acumulador de la suma (`suma <- 0`).
+   * Asignar cero al contador de elementos (`paresGenerados <- 0`).
+   * **Establecer el inicio de la evaluación en el propio número introducido:** (`actual <- N`).
+6. **Estructura iterativa (Mientras):** Configurar un ciclo que se repita **mientras** la cantidad de `paresGenerados` sea estrictamente menor que el valor de `N` (`paresGenerados < N`).
+7. **Cuerpo del ciclo:** En cada iteración, realizar de forma secuencial los siguientes pasos:
+   * **Validar paridad:** Comprobar mediante la condición lógica si el valor de `actual` es un número par (`actual Mod 2 = 0`).
+   * **Procesar coincidencia:** Si es verdadero (es par), añadir su valor a la variable `suma` (`suma <- suma + actual`) e incrementar en una unidad el contador `paresGenerados` (`paresGenerados <- paresGenerados + 1`).
+   * **Avanzar secuencia:** Incrementar siempre la variable `actual` en una unidad (`actual <- actual + 1`) para evaluar el siguiente número entero en la próxima vuelta del bucle.
+8. **Mostrar resultado:** Una vez completada la cantidad requerida de números pares, finalizar el ciclo e imprimir en pantalla el valor total de `suma`.
 9. **Fin.**
 
 ---
@@ -29,7 +27,7 @@ Algoritmo que lee un número entero N por teclado y calcula la suma acumulada de
 ## 👁️ Solución en PSeInt (Código)
 
 ```pascal
-Algoritmo SumaParesDesdeN
+Algoritmo SumaParesAPartirDeN_Inclusivo
     Definir N, actual, suma, paresGenerados Como Entero
     
     Escribir "Ingrese el valor de N:"
@@ -37,7 +35,7 @@ Algoritmo SumaParesDesdeN
     
     suma <- 0
     paresGenerados <- 0
-    actual <- N + 1
+    actual <- N // Lógica más precisa: iniciamos la evaluación en el propio número N
     
     Mientras paresGenerados < N Hacer
         Si actual Mod 2 = 0 Entonces
