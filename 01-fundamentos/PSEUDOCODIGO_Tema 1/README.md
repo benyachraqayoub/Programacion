@@ -49,6 +49,8 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 10** <br> _Múltiplos de 3 hasta N_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio10.md>) |
 | **Ejercicio 11** <br> _Cuenta Descendente desde 29_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio11.md>) |
 | **Ejercicio 12** <br> _Múltiplos de 2 o de 3 entre 1 y 100_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio12.md>) |
+| **Ejercicio 13** <br> _Suma de los N primeros números naturales_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio13.md>) |
+| **Ejercicio 14** <br> _Suma de los N primeros números pares a partir de N_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio14.md>) |
 
 ---
   
