@@ -51,6 +51,12 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 12** <br> _Múltiplos de 2 o de 3 entre 1 y 100_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio12.md>) |
 | **Ejercicio 13** <br> _Suma de los N primeros números naturales_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio13.md>) |
 | **Ejercicio 14** <br> _Suma de los N primeros números pares a partir de N_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio14.md>) |
+| **Ejercicio 15** <br> _Suma acumulada limitada hasta 100_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio15.md>) |
+| **Ejercicio 16** <br> _Clasificación y suma de 10 números enteros (pares e impares)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio16.md>) |
+| **Ejercicio 17** <br> _Control de acceso con límite de 3 intentos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio17.md>) |
+| **Ejercicio 18** <br> _Máximo, mínimo y media de una serie de números_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio18.md>) |
+| **Ejercicio 19** <br> _Cálculo de calificaciones ponderadas de un grupo de alumnos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio19.md>) |
+| **Ejercicio 20** <br> _Menú interactivo de operaciones aritméticas básicas_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio20.md>) |
 
 ---
   
