@@ -21,7 +21,8 @@ Algoritmo iterativo que calcula la calificación final de un grupo de estudiante
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo CalificacionesGrupoAlumnos
@@ -64,3 +65,5 @@ Algoritmo CalificacionesGrupoAlumnos
     Escribir "Programa de calificaciones finalizado con éxito."
 FinAlgoritmo
 ```
+
+</details>

@@ -20,7 +20,8 @@ Algoritmo que solicita números enteros o reales al usuario por teclado de maner
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo SumaHastaCien_Mientras
@@ -49,3 +50,5 @@ Algoritmo SumaHastaCien_Mientras
     Escribir "Programa finalizado por superar el límite de 100."
 FinAlgoritmo
 ```
+
+</details>

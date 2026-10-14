@@ -25,7 +25,8 @@ Algoritmo que lee de forma consecutiva números enteros ingresados por teclado h
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo MaximoMinimoYMedia
@@ -75,3 +76,5 @@ Algoritmo MaximoMinimoYMedia
     Escribir "========================================="
 FinAlgoritmo
 ```
+
+</details>

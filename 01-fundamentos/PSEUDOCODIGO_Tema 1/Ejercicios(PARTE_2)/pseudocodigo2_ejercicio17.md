@@ -25,7 +25,8 @@ Algoritmo que solicita una clave de acceso al usuario por teclado. El sistema pe
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo ControlDeAcceso_3Intentos
@@ -55,3 +56,5 @@ Algoritmo ControlDeAcceso_3Intentos
     FinSi
 FinAlgoritmo
 ```
+
+</details>

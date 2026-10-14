@@ -24,7 +24,8 @@ Algoritmo estructurado que despliega un menú interactivo en pantalla para ejecu
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo MenuOperacionesCalculadora
@@ -87,3 +88,5 @@ Algoritmo MenuOperacionesCalculadora
     Hasta Que opcion = 5
 FinAlgoritmo
 ```
+
+</details>

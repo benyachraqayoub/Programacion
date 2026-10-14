@@ -25,7 +25,8 @@ Algoritmo que lee de forma consecutiva **10 números enteros** ingresados por te
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo ClasificacionYSumaDeDiezNumeros
@@ -65,3 +66,5 @@ Algoritmo ClasificacionYSumaDeDiezNumeros
     Escribir "========================================="
 FinAlgoritmo
 ```
+
+</details>

@@ -24,7 +24,8 @@ Algoritmo que lee un número entero N por teclado y calcula la suma acumulada de
 
 ---
 
-## 👁️ Solución en PSeInt (Código)
+<details>
+<summary><b>👁️ Ver solución en PSeInt (Código)</b></summary>
 
 ```pascal
 Algoritmo SumaParesAPartirDeN_Inclusivo
@@ -48,3 +49,5 @@ Algoritmo SumaParesAPartirDeN_Inclusivo
     Escribir "La suma de los ", N, " primeros números pares a partir de ", N, " es: ", suma
 FinAlgoritmo
 ```
+
+</details>
