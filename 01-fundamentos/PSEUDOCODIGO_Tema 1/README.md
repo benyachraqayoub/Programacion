@@ -41,7 +41,7 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 1** <br> _Clasificación Numérica (Positivo, Negativo o Cero)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio1.md>) |
 | **Ejercicio 2** <br> _Comparación de Dos Números (Mayor o Iguales)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio2.md>) |
 | **Ejercicio 3** <br> _Determinar si un número entero es par, impar o cero_ |[📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio3.md>) |
-| **Ejercicio 4** <br>_Cálculo de promedio y estado de alumno (Aprueba/Suspende)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio4.md>) |
+| **Ejercicio 4** <br> _Cálculo de promedio y estado de alumno (Aprueba/Suspende)_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio4.md>) |
 | **Ejercicio 5** <br> _Cálculo de salario con incremento por horas extras_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio5.md>) |
 | **Ejercicio 6** <br> _Encontrar el número mayor de tres datos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio6.md>) |
 | **Ejercicio 7** <br> _Convertir calificación numérica a alfabética_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio7.md>) |
@@ -62,11 +62,16 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 ---
 
 ### 🚀 Prácticas Evaluables
-* **[Enunciado de la Práctica 1 (PDF)](<./Practica/Práctica 1.pdf>)**
-* **[📄 Ver Solución de la Práctica 1 (.md)](#)** 
+
+| Actividad / Ejercicio de Práctica | Solución y Código Fuente |
+| :--- | :---: |
+| **Práctica 1: Ejercicio 1** <br> _Resolución del primer caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio1.md>) |
+| **Práctica 1: Ejercicio 2** <br> _Resolución del segundo caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio2.md>) |
+| **Práctica 1: Ejercicio 3** <br> _Resolución del tercer caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio3.md>) |
+| **Práctica 1: Ejercicio 4** <br> _Resolución del cuarto caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio4.md>) |
 
 ---
-  
+
 ## 🛠️ Especificaciones Técnicas
 * **Entorno:** PSeInt (Configuración estándar).
 * **Sintaxis:** Dentro de las soluciones documentadas en Markdown encontrarás tanto el algoritmo en lenguaje natural como el bloque de código estructurado de PSeInt.
