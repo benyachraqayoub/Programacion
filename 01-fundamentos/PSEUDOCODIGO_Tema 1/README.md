@@ -12,10 +12,11 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 
 ---
 
-## 🧪 Enunciados de Prácticas
+## 🧪 Enunciados de Prácticas y Ejercicios
 
 * **[Enunciado de los Ejercicios - Bloque I (PDF)](<./Ejercicios(PARTE_1)/Ejercicios Tema 1- PSEUDOCODIGO (I).pdf>)**
 * **[Enunciado de los Ejercicios - Bloque II (PDF)](<./Ejercicios(PARTE_2)/Ejercicios Tema 1- PSEUDOCODIGO (II).pdf>)**
+* **[Práctica 1 (PDF)](<./Practica/Práctica 1.pdf>)** 🚀 *(¡Nueva sección!)*
 
 ---
 
@@ -57,6 +58,12 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 | **Ejercicio 18** <br> _Máximo, mínimo y media de una serie de números_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio18.md>) |
 | **Ejercicio 19** <br> _Cálculo de calificaciones ponderadas de un grupo de alumnos_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio19.md>) |
 | **Ejercicio 20** <br> _Menú interactivo de operaciones aritméticas básicas_ | [📄 Ver Solución (.md)](<./Ejercicios(PARTE_2)/pseudocodigo2_ejercicio20.md>) |
+
+---
+
+### 🚀 Prácticas Evaluables
+* **[Enunciado de la Práctica 1 (PDF)](<./Practica/Práctica 1.pdf>)**
+* **[📄 Ver Solución de la Práctica 1 (.md)](#)** 
 
 ---
   
