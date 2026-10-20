@@ -8,7 +8,7 @@
 
 - [x] **Tema 0:** [Lógica Visual con Scratch](./01-fundamentos/Scratch_Tema%200/README.md) — *¡Completado!*
 - [x] **Tema 1:** [Algoritmia y Pseudocódigo](./01-fundamentos/PSEUDOCODIGO_Tema%201/README.md) — *¡Completado!*
-- [ ] **Tema 2:** Introducción a Lenguajes de Alto Nivel — *Próximamente*
+- [ ] **Tema 2:** [Introducción a Java](./02-introduccion-java/README.md) — *Material disponible*
 
 ---
 
@@ -25,12 +25,16 @@ Espacio centralizado que agrupa las primeras unidades formativas sobre lógica e
 * **📝 [Tema 1: Pseudocódigo](./01-fundamentos/PSEUDOCODIGO_Tema%201/README.md)**  
   Transición de la programación en bloques hacia la algoritmia estructurada. Contiene problemas de lógica resueltos, diagramas de flujo y scripts de simulación escritos en formato `.psc` (PSeInt).
 
+### ☕ [Módulo: Introducción a Java](./02-introduccion-java/README.md)
+Material del Tema 2 para comenzar con un lenguaje de programación de alto nivel: diapositivas teóricas y enunciado de ejercicios.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
 * **Scratch:** Herramientas de desarrollo visual para conceptualizar eventos y sincronización.
 * **PSeInt:** Entorno educativo para el diseño de algoritmos mediante pseudocódigo en español.
+* **Java:** Lenguaje de programación de alto nivel introducido en el Tema 2.
 * **Git & GitHub:** Control de versiones y despliegue del portafolio académico.
 
 ---
