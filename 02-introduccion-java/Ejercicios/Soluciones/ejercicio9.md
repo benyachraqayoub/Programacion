@@ -1,6 +1,6 @@
 # Ejercicio 9 — Calcular el valor absoluto con el operador ternario
 
-Programa que utiliza el operador ternario para mostrar un número si es positivo o su opuesto si es negativo.
+Programa que utiliza el operador ternario para mostrar el valor absoluto de un número almacenado en una variable.
 
 ---
 

@@ -1,6 +1,6 @@
 # Ejercicio 8 — Calcular el total de una factura con IVA
 
-Programa que calcula el IVA general (21 %) y el total de una factura a partir de su base imponible, almacenada en una variable.
+Programa que calcula el IVA general (21 %) y el total de una factura a partir de la base imponible almacenada en una variable.
 
 ---
 
@@ -25,9 +25,9 @@ public class Ejercicio08 {
         double iva = baseImponible * 0.21;
         double total = baseImponible + iva;
 
-        System.out.printf("Base imponible: %.2f EUR%n", baseImponible);
-        System.out.printf("IVA (21%%): %.2f EUR%n", iva);
-        System.out.printf("Total: %.2f EUR%n", total);
+        System.out.println("Base imponible: " + baseImponible + " EUR");
+        System.out.println("IVA (21%): " + iva + " EUR");
+        System.out.println("Total: " + total + " EUR");
     }
 }
 ```

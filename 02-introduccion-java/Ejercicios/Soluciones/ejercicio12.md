@@ -19,20 +19,18 @@ Programa que solicita una cantidad de euros por teclado y la convierte a dólare
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ejercicio12 {
     public static void main(String[] args) {
         double dolaresPorEuro = 1.10;
         Scanner teclado = new Scanner(System.in);
-        teclado.useLocale(Locale.US);
 
-        System.out.print("Introduce la cantidad en euros: ");
+        System.out.println("Introduce la cantidad en euros: ");
         double euros = teclado.nextDouble();
         double dolares = euros * dolaresPorEuro;
 
-        System.out.printf(Locale.US, "%.2f EUR = %.2f USD%n", euros, dolares);
+        System.out.println(euros + " EUR = " + dolares + " USD");
         teclado.close();
     }
 }

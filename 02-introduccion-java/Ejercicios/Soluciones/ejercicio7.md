@@ -7,7 +7,7 @@ Programa que convierte a euros una cantidad en dólares almacenada en una variab
 ## 📝 Algoritmo en Lenguaje Natural
 
 1. **Inicio.**
-2. Guardar en una variable la cantidad de dólares y en otra el tipo de cambio expresado en dólares por euro.
+2. Guardar la cantidad de dólares y el tipo de cambio expresado en dólares por euro en variables.
 3. Dividir los dólares entre el tipo de cambio para obtener los euros.
 4. Mostrar la cantidad convertida.
 5. **Fin.**
@@ -24,7 +24,7 @@ public class Ejercicio07 {
         double dolaresPorEuro = 1.10;
         double euros = dolares / dolaresPorEuro;
 
-        System.out.printf("%.2f USD = %.2f EUR%n", dolares, euros);
+        System.out.println(dolares + " USD = " + euros + " EUR");
     }
 }
 ```

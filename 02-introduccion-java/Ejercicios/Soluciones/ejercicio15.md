@@ -9,7 +9,7 @@ Programa que calcula qué nota se necesita en el segundo examen para alcanzar la
 1. **Inicio.**
 2. Solicitar y leer la nota del primer examen y la media deseada.
 3. Despejar la nota del segundo examen a partir de la fórmula `media = nota1 × 0.40 + nota2 × 0.60`.
-4. Mostrar la nota necesaria con dos decimales.
+4. Mostrar la nota necesaria.
 5. **Fin.**
 
 ---
@@ -18,27 +18,24 @@ Programa que calcula qué nota se necesita en el segundo examen para alcanzar la
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ejercicio15 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        teclado.useLocale(Locale.US);
 
-        System.out.print("Introduce la nota del primer examen: ");
+        System.out.println("Introduce la nota del primer examen: ");
         double notaPrimerExamen = teclado.nextDouble();
 
-        System.out.print("¿Qué nota quieres sacar en el trimestre? ");
+        System.out.println("¿Qué nota quieres sacar en el trimestre? ");
         double mediaDeseada = teclado.nextDouble();
 
         double notaSegundoExamen = (mediaDeseada - notaPrimerExamen * 0.40) / 0.60;
 
-        System.out.printf(
-                Locale.US,
-                "Para tener un %.2f en el trimestre necesitas sacar un %.2f en el segundo examen.%n",
-                mediaDeseada,
-                notaSegundoExamen
+        System.out.println(
+                "Para tener un " + mediaDeseada
+                        + " en el trimestre necesitas sacar un " + notaSegundoExamen
+                        + " en el segundo examen."
         );
 
         teclado.close();
