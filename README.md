@@ -26,7 +26,7 @@ Espacio centralizado que agrupa las primeras unidades formativas sobre lógica e
   Transición de la programación en bloques hacia la algoritmia estructurada. Contiene problemas de lógica resueltos, diagramas de flujo y scripts de simulación escritos en formato `.psc` (PSeInt).
 
 ### ☕ [Módulo: Introducción a Java](./02-introduccion-java/README.md)
-Material del Tema 2 para comenzar con un lenguaje de programación de alto nivel: diapositivas teóricas y enunciado de ejercicios.
+Material del Tema 2 para comenzar con un lenguaje de programación de alto nivel: diapositivas teóricas, enunciado de ejercicios y las primeras soluciones en Java.
 
 ---
 
