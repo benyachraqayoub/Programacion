@@ -25,17 +25,17 @@ import java.util.Scanner;
 
 public class Ejercicio14 {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduzca la base imponible: ");
-        double baseImponible = teclado.nextDouble();
-        teclado.nextLine();
+        double baseImponible = sc.nextDouble();
+        sc.nextLine();
 
         System.out.println("Introduzca el tipo de IVA (general o reducido): ");
-        String tipoIva = teclado.nextLine().trim();
+        String tipoIva = sc.nextLine().trim();
 
         System.out.println("Introduzca el código promocional (nopro o mitad): ");
-        String codigoPromocional = teclado.nextLine().trim();
+        String codigoPromocional = sc.nextLine().trim();
 
         double porcentajeIva;
         if (tipoIva.equalsIgnoreCase("general")) {
@@ -44,14 +44,12 @@ public class Ejercicio14 {
             porcentajeIva = 0.10;
         } else {
             System.out.println("Tipo de IVA no válido.");
-            teclado.close();
             return;
         }
 
         if (!codigoPromocional.equalsIgnoreCase("nopro")
                 && !codigoPromocional.equalsIgnoreCase("mitad")) {
             System.out.println("Código promocional no válido.");
-            teclado.close();
             return;
         }
 
@@ -67,7 +65,6 @@ public class Ejercicio14 {
         System.out.println("Cód. promo. (" + codigoPromocional + "): -" + descuento);
         System.out.println("TOTAL " + total);
 
-        teclado.close();
     }
 }
 ```

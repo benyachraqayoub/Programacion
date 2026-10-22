@@ -22,13 +22,13 @@ import java.util.Scanner;
 
 public class Ejercicio15 {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduce la nota del primer examen: ");
-        double notaPrimerExamen = teclado.nextDouble();
+        double notaPrimerExamen = sc.nextDouble();
 
         System.out.println("¿Qué nota quieres sacar en el trimestre? ");
-        double mediaDeseada = teclado.nextDouble();
+        double mediaDeseada = sc.nextDouble();
 
         double notaSegundoExamen = (mediaDeseada - notaPrimerExamen * 0.40) / 0.60;
 
@@ -38,7 +38,6 @@ public class Ejercicio15 {
                         + " en el segundo examen."
         );
 
-        teclado.close();
     }
 }
 ```

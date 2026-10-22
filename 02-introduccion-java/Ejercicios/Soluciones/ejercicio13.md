@@ -24,14 +24,13 @@ import java.util.Scanner;
 public class Ejercicio13 {
     public static void main(String[] args) {
         double dolaresPorEuro = 1.10;
-        Scanner teclado = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduce la cantidad en dólares: ");
-        double dolares = teclado.nextDouble();
+        double dolares = sc.nextDouble();
         double euros = dolares / dolaresPorEuro;
 
         System.out.println(dolares + " USD = " + euros + " EUR");
-        teclado.close();
     }
 }
 ```
