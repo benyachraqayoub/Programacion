@@ -7,9 +7,9 @@ Programa que solicita una cantidad de dólares por teclado y la convierte a euro
 ## 📝 Algoritmo en Lenguaje Natural
 
 1. **Inicio.**
-2. Guardar el tipo de cambio, expresado en dólares por euro, en una variable.
+2. Guardar el tipo de cambio, expresado en euros por dólar, en una variable.
 3. Solicitar y leer por teclado la cantidad de dólares.
-4. Dividir los dólares entre el tipo de cambio.
+4. Multiplicar los dólares por el tipo de cambio.
 5. Mostrar el resultado en euros.
 6. **Fin.**
 
@@ -23,12 +23,12 @@ import java.util.Scanner;
 
 public class Ejercicio13 {
     public static void main(String[] args) {
-        double dolaresPorEuro = 1.10;
+        double eurosPorDolar = 1.0 / 1.10;
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduce la cantidad en dólares: ");
         double dolares = sc.nextDouble();
-        double euros = dolares / dolaresPorEuro;
+        double euros = dolares * eurosPorDolar;
 
         System.out.println(dolares + " USD = " + euros + " EUR");
     }
