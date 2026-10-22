@@ -50,6 +50,8 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 | **Ejercicio 14**<br>_Cálculo del precio con IVA y código promocional_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio14.md) |
 | **Ejercicio 15**<br>_Cálculo de la nota necesaria en el segundo examen_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio15.md) |
 
+> **Nota:** El ejercicio 14 usa estructuras `if` / `else` y los métodos de texto `trim()` y `equalsIgnoreCase()`, que todavía no se explican en la teoría de Java I. La solución incluye una breve explicación de estos conceptos.
+
 ---
 
 ## 🛠️ Especificaciones Técnicas

@@ -2,6 +2,8 @@
 
 Programa que calcula el IVA general (21 %) o reducido (10 %) de una base imponible y aplica uno de los códigos promocionales `nopro` o `mitad`. La promoción `mitad` reduce a la mitad el precio con IVA.
 
+> **Nota:** Esta solución utiliza conceptos que todavía no aparecen en la teoría de Java I: las estructuras `if` / `else` permiten elegir entre opciones y validar los datos; `trim()` elimina espacios al principio y al final de un texto; y `equalsIgnoreCase()` compara textos sin distinguir entre mayúsculas y minúsculas. Se incluyen para resolver las opciones de IVA y los códigos promocionales.
+
 ---
 
 ## 📝 Algoritmo en Lenguaje Natural
