@@ -16,7 +16,7 @@ Programa que muestra un nombre por pantalla utilizando `System.out.println`.
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio01 {
+public class Principal {
     public static void main(String[] args) {
         System.out.println("Ayoub Ben Yachraq");
     }

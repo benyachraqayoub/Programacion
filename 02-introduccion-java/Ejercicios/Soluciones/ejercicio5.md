@@ -21,7 +21,7 @@ La división entre dos valores `int` da como resultado una división entera. El 
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio05 {
+public class Principal {
     public static void main(String[] args) {
         int x = 144;
         int y = 999;

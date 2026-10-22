@@ -19,7 +19,7 @@ Programa que calcula el valor de `resultado` a partir de la edad, el nivel de es
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio11 {
+public class Principal {
     public static void main(String[] args) {
         int edad = 27;
         int nivelestudios = 4;

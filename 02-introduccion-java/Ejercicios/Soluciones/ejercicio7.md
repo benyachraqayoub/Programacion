@@ -18,7 +18,7 @@ Programa que convierte a euros una cantidad en dólares almacenada en una variab
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio07 {
+public class Principal {
     public static void main(String[] args) {
         double dolares = 55.0;
         double eurosPorDolar = 1.0 / 1.10;

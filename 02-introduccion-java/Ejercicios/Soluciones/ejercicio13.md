@@ -21,7 +21,7 @@ Programa que solicita una cantidad de dólares por teclado y la convierte a euro
 ```java
 import java.util.Scanner;
 
-public class Ejercicio13 {
+public class Principal {
     public static void main(String[] args) {
         double eurosPorDolar = 1.0 / 1.10;
         Scanner sc = new Scanner(System.in);

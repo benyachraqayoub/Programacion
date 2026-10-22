@@ -18,7 +18,7 @@ Programa que utiliza el operador ternario para elegir y mostrar el menor de dos 
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio10 {
+public class Principal {
     public static void main(String[] args) {
         double numero1 = 12.5;
         double numero2 = 8.3;

@@ -19,7 +19,7 @@ Programa que calcula el IVA general (21 %) y el total de una factura a partir de
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio08 {
+public class Principal {
     public static void main(String[] args) {
         double baseImponible = 100.0;
         double iva = baseImponible * 0.21;

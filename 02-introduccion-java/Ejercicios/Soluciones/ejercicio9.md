@@ -18,7 +18,7 @@ Programa que utiliza el operador ternario para mostrar el valor absoluto de un n
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio09 {
+public class Principal {
     public static void main(String[] args) {
         double numero = -8.5;
         double valorAbsoluto = numero < 0 ? -numero : numero;

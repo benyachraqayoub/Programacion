@@ -20,7 +20,7 @@ Programa que calcula qué nota se necesita en el segundo examen para alcanzar la
 ```java
 import java.util.Scanner;
 
-public class Ejercicio15 {
+public class Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

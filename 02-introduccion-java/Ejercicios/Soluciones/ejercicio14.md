@@ -25,7 +25,7 @@ Programa que calcula el IVA general (21 %) o reducido (10 %) de una base imponib
 ```java
 import java.util.Scanner;
 
-public class Ejercicio14 {
+public class Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

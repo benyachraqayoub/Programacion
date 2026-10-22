@@ -18,7 +18,7 @@ Programa que guarda el nombre, la dirección y el teléfono en variables y muest
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio04 {
+public class Principal {
     public static void main(String[] args) {
         String nombre = "Ayoub Ben Yachraq";
         String direccion = "Tu dirección";

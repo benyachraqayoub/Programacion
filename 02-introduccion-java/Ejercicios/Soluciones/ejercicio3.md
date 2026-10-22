@@ -18,7 +18,7 @@ Programa que guarda un nombre completo en una variable de tipo `String` y muestr
 <summary><b>👁️ Ver solución en Java (Código)</b></summary>
 
 ```java
-public class Ejercicio03 {
+public class Principal {
     public static void main(String[] args) {
         String nombre = "Ayoub Ben Yachraq";
         System.out.println(nombre);
