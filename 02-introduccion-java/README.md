@@ -8,6 +8,7 @@ Este módulo reúne el material del Tema 2 y las soluciones de los ejercicios de
 
 * **Java I:** [Diapositivas Tema 2 - Introducción a Java (PDF)](<./Teoria/Diapositivas Tema 2 - INTRODUCCION JAVA (I).pdf>)
 * **Java II:** [Material teórico Tema 2 - Introducción a Java (PDF)](<./Teoria/Tema 2- INTRODUCCION JAVA (II).pdf>)
+* **Java II (diapositivas):** [Diapositivas Tema 2 - Introducción a Java (II) (PDF)](<./Teoria/Diapositivas Tema 2 - INTRODUCCION JAVA (II).pdf>)
 
 ---
 
@@ -18,7 +19,7 @@ Este módulo reúne el material del Tema 2 y las soluciones de los ejercicios de
 
 ---
 
-## 💻 Ejercicios Resueltos
+## ☕ Java I - Ejercicios Resueltos
 
 Cada solución explica el algoritmo en lenguaje natural y presenta el código Java en una sección desplegable. En los ejercicios 2 y 4, sustituye los valores de dirección y teléfono de ejemplo por tus propios datos. Los conversores usan como ejemplo el tipo de cambio `1 EUR = 1.10 USD`; puedes ajustarlo en el código.
 
@@ -53,6 +54,15 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 | **Ejercicio 15**<br>_Cálculo de la nota necesaria en el segundo examen_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio15.md) |
 
 > **Nota:** El ejercicio 14 usa estructuras `if` / `else` y los métodos de texto `trim()` y `equalsIgnoreCase()`, que todavía no se explican en la teoría de Java I. La solución incluye una breve explicación de estos conceptos.
+
+---
+
+## ☕ Java II - Primeros ejercicios resueltos
+
+| Ejercicio / Descripción | Solución y Código Fuente |
+| :--- | :---: |
+| **Java II - Ejercicio 1**<br>_Pedir un día de la semana y mostrar la asignatura de primera hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio1.md) |
+| **Java II - Ejercicio 2**<br>_Mostrar buenos días, tardes o noches según la hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio2.md) |
 
 ---
 
