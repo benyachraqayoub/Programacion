@@ -6,13 +6,15 @@ Este módulo reúne el material del Tema 2 y las soluciones de los ejercicios de
 
 ## 📖 Material Teórico
 
-* **[Diapositivas Tema 2 - Introducción a Java (PDF)](<./Teoria/Diapositivas Tema 2 - INTRODUCCION JAVA (I).pdf>)**
+* **Java I:** [Diapositivas Tema 2 - Introducción a Java (PDF)](<./Teoria/Diapositivas Tema 2 - INTRODUCCION JAVA (I).pdf>)
+* **Java II:** [Material teórico Tema 2 - Introducción a Java (PDF)](<./Teoria/Tema 2- INTRODUCCION JAVA (II).pdf>)
 
 ---
 
 ## 🧪 Enunciado de los Ejercicios
 
-* **[Ejercicios Tema 2 - Introducción a Java (PDF)](<./Ejercicios/Ejercicios Tema 2- INTRODUCCION JAVA (I).pdf>)**
+* **Parte I:** [Ejercicios Tema 2 - Introducción a Java (PDF)](<./Ejercicios/Ejercicios Tema 2- INTRODUCCION JAVA (I).pdf>)
+* **Parte II:** [Enunciado de los ejercicios Tema 2 - Introducción a Java (PDF)](<./Ejercicios/Ejercicios Tema 2- INTRODUCCION JAVA (II).pdf>)
 
 ---
 
