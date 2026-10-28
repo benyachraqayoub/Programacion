@@ -63,6 +63,7 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 | :--- | :---: |
 | **Java II - Ejercicio 1**<br>_Pedir un día de la semana y mostrar la asignatura de primera hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio1.md) |
 | **Java II - Ejercicio 2**<br>_Mostrar buenos días, tardes o noches según la hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio2.md) |
+| **Java II - Ejercicio 3**<br>_Calcular la nota trimestral con recuperación_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio3.md) |
 
 ---
 
