@@ -71,6 +71,11 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 | **Java II - Ejercicio 8**<br>_Contar de 20 en 20 hacia atrás del 320 al 160 con `for`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio8.md) |
 | **Java II - Ejercicio 9**<br>_Contar de 20 en 20 hacia atrás del 320 al 160 con `while`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio9.md) |
 | **Java II - Ejercicio 10**<br>_Contar de 20 en 20 hacia atrás del 320 al 160 con `do-while`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio10.md) |
+| **Java II - Ejercicio 11**<br>_Control de acceso a una caja fuerte_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio11.md) |
+| **Java II - Ejercicio 12**<br>_Contar los dígitos de un número_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio12.md) |
+| **Java II - Ejercicio 13**<br>_Sumar los 100 números siguientes a un número positivo_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio13.md) |
+| **Java II - Ejercicio 14**<br>_Imprimir una pirámide numérica de `n` filas_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio14.md) |
+| **Java II - Ejercicio 15**<br>_Mostrar un número al revés_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio15.md) |
 
 ---
 
