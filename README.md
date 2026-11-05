@@ -8,7 +8,8 @@
 
 - [x] **Tema 0:** [Lógica Visual con Scratch](./01-fundamentos/Scratch_Tema%200/README.md) — *¡Completado!*
 - [x] **Tema 1:** [Algoritmia y Pseudocódigo](./01-fundamentos/PSEUDOCODIGO_Tema%201/README.md) — *¡Completado!*
-- [ ] **Tema 2:** [Introducción a Java](./02-introduccion-java/README.md) — *Material disponible*
+- [x] **Tema 2:** [Introducción a Java](./02-introduccion-java/README.md) — *¡Completado!*
+- [ ] **Tema 3:** [Funciones y excepciones en Java](./03-funciones-y-excepciones-java/README.md) — *Material disponible*
 
 ---
 
@@ -28,13 +29,16 @@ Espacio centralizado que agrupa las primeras unidades formativas sobre lógica e
 ### ☕ [Módulo: Introducción a Java](./02-introduccion-java/README.md)
 Material del Tema 2 para comenzar con un lenguaje de programación de alto nivel: diapositivas teóricas, enunciado de ejercicios y las primeras soluciones en Java.
 
+### ☕ [Módulo: Tema 3 — Funciones y excepciones en Java](./03-funciones-y-excepciones-java/README.md)
+Funciones, ámbito y parámetros, junto con el manejo y lanzamiento de excepciones en Java.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 
 * **Scratch:** Herramientas de desarrollo visual para conceptualizar eventos y sincronización.
 * **PSeInt:** Entorno educativo para el diseño de algoritmos mediante pseudocódigo en español.
-* **Java:** Lenguaje de programación de alto nivel introducido en el Tema 2.
+* **Java:** Lenguaje de programación de alto nivel trabajado en los Temas 2 y 3.
 * **Git & GitHub:** Control de versiones y despliegue del portafolio académico.
 
 ---

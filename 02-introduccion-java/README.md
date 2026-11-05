@@ -64,7 +64,7 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 | **Java II - Ejercicio 1**<br>_Pedir un día de la semana y mostrar la asignatura de primera hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio1.md) |
 | **Java II - Ejercicio 2**<br>_Mostrar buenos días, tardes o noches según la hora_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio2.md) |
 | **Java II - Ejercicio 3**<br>_Calcular la nota trimestral con recuperación_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio3.md) |
-| **Java II - Ejercicio 4**<br>_Comprobar si un número entero positivo de hasta cinco cifras es capicúa_ | Pendiente de resolver |
+| **Java II - Ejercicio 4**<br>_Comprobar si un número entero positivo de hasta cinco cifras es capicúa_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio4.md) |
 | **Java II - Ejercicio 5**<br>_Mostrar los múltiplos de 5 entre 0 y 100 con `for`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio5.md) |
 | **Java II - Ejercicio 6**<br>_Mostrar los múltiplos de 5 entre 0 y 100 con `while`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio6.md) |
 | **Java II - Ejercicio 7**<br>_Mostrar los múltiplos de 5 entre 0 y 100 con `do-while`_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/java2-ejercicio7.md) |
@@ -86,4 +86,6 @@ Cada solución explica el algoritmo en lenguaje natural y presenta el código Ja
 * **Ejecución:** Copia el código Java de la solución en un archivo con el nombre de su clase, compílalo con `javac` y ejecútalo con `java`.
 
 ---
+[➡️ Continuar con el Tema 3: Funciones y excepciones en Java](../03-funciones-y-excepciones-java/README.md)
+
 [⬅️ Volver al menú principal](../README.md)
