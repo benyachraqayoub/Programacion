@@ -13,6 +13,13 @@ Este tema trata las funciones en Java —incluidos el ámbito de las variables y
 
 * [Ejercicios de funciones y excepciones (PDF)](<./Ejercicios/Ejercicios Tema 2- INTRODUCCION JAVA (III).pdf>)
 
+## ☕ Ejercicios resueltos
+
+| Ejercicio / Descripción | Solución |
+| :--- | :---: |
+| **Ejercicio 1**<br>_Multiplicar dos números reales con una función_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio1.md) |
+| **Ejercicio 2**<br>_Comprobar si una persona es mayor de edad con una función_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio2.md) |
+
 ---
 
 [⬅️ Volver al menú principal](../README.md) · [⬅️ Introducción a Java](../02-introduccion-java/README.md)
