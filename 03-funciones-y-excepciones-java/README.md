@@ -19,6 +19,8 @@ Este tema trata las funciones en Java —incluidos el ámbito de las variables y
 | :--- | :---: |
 | **Ejercicio 1**<br>_Multiplicar dos números reales con una función_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio1.md) |
 | **Ejercicio 2**<br>_Comprobar si una persona es mayor de edad con una función_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio2.md) |
+| **Ejercicio 3**<br>_Pedir cinco precios y calcular el precio con IVA_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio3.md) |
+| **Ejercicio 4**<br>_Determinar el mayor de tres números enteros con una función de dos parámetros_ | [📄 Ver solución (.md)](./Ejercicios/Soluciones/ejercicio4.md) |
 
 ---
 
