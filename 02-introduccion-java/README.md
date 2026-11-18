@@ -1,4 +1,4 @@
-# ☕ Introducción a Java
+# ☕ Tema 2: Introducción a Java
 
 Este módulo reúne el material del Tema 2 y las soluciones de los ejercicios de introducción a la programación con **Java**.
 

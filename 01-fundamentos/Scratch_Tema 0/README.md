@@ -1,4 +1,4 @@
-# 🐱 Introducción a la Programación con Scratch
+# 🐱 Tema 0: Introducción a la Programación con Scratch
 
 Este espacio contiene el material didáctico y la resolución de las prácticas iniciales desarrolladas en **Scratch**. El objetivo es familiarizarse de forma visual con las estructuras de control, eventos, bucles e interacciones básicas.
 

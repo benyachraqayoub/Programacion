@@ -1,4 +1,4 @@
-# 📝 Fundamentos de Pseudocódigo
+# 📝 Tema 1: Fundamentos de Pseudocódigo
 
 Este espacio contiene la teoría y la resolución de ejercicios prácticos utilizando **PSeInt** documentados en formato Markdown. El objetivo es dominar la lógica de programación pura, la asignación de variables y el diseño de algoritmos eficaces.
 
@@ -16,7 +16,7 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 
 * **[Enunciado de los Ejercicios - Bloque I (PDF)](<./Ejercicios(PARTE_1)/Ejercicios Tema 1- PSEUDOCODIGO (I).pdf>)**
 * **[Enunciado de los Ejercicios - Bloque II (PDF)](<./Ejercicios(PARTE_2)/Ejercicios Tema 1- PSEUDOCODIGO (II).pdf>)**
-* **[Práctica 1 (PDF)](<./Practica/Práctica 1.pdf>)** 🚀 *(¡Nueva sección!)*
+* **[Práctica 1 (PDF)](<../../Practica/Practica1/Practica 1- PSEUDOCODIGO.pdf>)**
 
 ---
 
@@ -65,10 +65,10 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 
 | Actividad / Ejercicio de Práctica | Solución y Código Fuente |
 | :--- | :---: |
-| **Práctica 1: Ejercicio 1** <br> _Resolución del primer caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio1.md>) |
-| **Práctica 1: Ejercicio 2** <br> _Resolución del segundo caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio2.md>) |
-| **Práctica 1: Ejercicio 3** <br> _Resolución del tercer caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio3.md>) |
-| **Práctica 1: Ejercicio 4** <br> _Resolución del cuarto caso práctico_ | [📄 Ver Solución (.md)](<./Practica/ejercicio4.md>) |
+| **Práctica 1: Ejercicio 1** <br> _Resolución del primer caso práctico_ | [📄 Ver Solución (.md)](<../../Practica/Practica1/ejercicio1.md>) |
+| **Práctica 1: Ejercicio 2** <br> _Resolución del segundo caso práctico_ | [📄 Ver Solución (.md)](<../../Practica/Practica1/ejercicio2.md>) |
+| **Práctica 1: Ejercicio 3** <br> _Resolución del tercer caso práctico_ | [📄 Ver Solución (.md)](<../../Practica/Practica1/ejercicio3.md>) |
+| **Práctica 1: Ejercicio 4** <br> _Resolución del cuarto caso práctico_ | [📄 Ver Solución (.md)](<../../Practica/Practica1/ejercicio4.md>) |
 
 ---
 
@@ -77,4 +77,4 @@ Este espacio contiene la teoría y la resolución de ejercicios prácticos utili
 * **Sintaxis:** Dentro de las soluciones documentadas en Markdown encontrarás tanto el algoritmo en lenguaje natural como el bloque de código estructurado de PSeInt.
 
 ---
-[⬅️ Volver al módulo de Fundamentos](../README.md) | [🏠 Menú Principal](../../README.md)
+[⬅️ Volver al módulo de Fundamentos](../README.md) | [🧪 Ver todas las prácticas](../../Practica/README.md) | [🏠 Menú Principal](../../README.md)

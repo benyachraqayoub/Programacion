@@ -1,4 +1,4 @@
-# 01. Fundamentos de Programación
+# Temas 0 y 1 — Fundamentos de Programación
 
 Este módulo contiene los conceptos iniciales y los bloques fundamentales indispensables para el desarrollo de software moderno. Está dividido en dos enfoques educativos complementarios:
 

@@ -13,24 +13,24 @@
 
 ---
 
-## 📁 Estructura del Repositorio
+## 📚 Temas del Repositorio
 
-El proyecto está segmentado por módulos jerárquicos. **Haz clic en los títulos para acceder a la documentación específica de cada tema:**
+Accede a cada tema desde su documentación:
 
-### 📑 [Módulo Principal: 01-Fundamentos](./01-fundamentos/README.md)
-Espacio centralizado que agrupa las primeras unidades formativas sobre lógica e introducción a las ciencias de la computación.
+### 🐱 [Tema 0 — Lógica visual con Scratch](./01-fundamentos/Scratch_Tema%200/README.md)
+Programación por bloques para aprender variables, eventos, bucles y estructuras condicionales.
 
-* **🐱 [Tema 0: Scratch](./01-fundamentos/Scratch_Tema%200/README.md)**  
-  Diseño de software visual por bloques enfocado en asimilar flujos lógicos, variables, bucles secuenciales y condicionales. Contiene apuntes teóricos y proyectos interactivos `.sb3`.
+### 📝 [Tema 1 — Algoritmia y pseudocódigo](./01-fundamentos/PSEUDOCODIGO_Tema%201/README.md)
+Diseño de algoritmos, diagramas de flujo y resolución de problemas con PSeInt.
 
-* **📝 [Tema 1: Pseudocódigo](./01-fundamentos/PSEUDOCODIGO_Tema%201/README.md)**  
-  Transición de la programación en bloques hacia la algoritmia estructurada. Contiene problemas de lógica resueltos, diagramas de flujo y scripts de simulación escritos en formato `.psc` (PSeInt).
+### ☕ [Tema 2 — Introducción a Java](./02-introduccion-java/README.md)
+Conceptos iniciales de Java, desde variables y operaciones hasta condiciones, bucles y entrada por teclado.
 
-### ☕ [Módulo: Introducción a Java](./02-introduccion-java/README.md)
-Material del Tema 2 para comenzar con un lenguaje de programación de alto nivel: diapositivas teóricas, enunciado de ejercicios y las primeras soluciones en Java.
+### ☕ [Tema 3 — Funciones y excepciones en Java](./03-funciones-y-excepciones-java/README.md)
+Funciones, ámbito y parámetros, junto con el manejo y lanzamiento de excepciones.
 
-### ☕ [Módulo: Tema 3 — Funciones y excepciones en Java](./03-funciones-y-excepciones-java/README.md)
-Funciones, ámbito y parámetros, junto con el manejo y lanzamiento de excepciones en Java.
+### 🧪 [Prácticas de programación](./Practica/README.md)
+Enunciados y soluciones de las prácticas de pseudocódigo y programación en Java.
 
 ---
 
