@@ -35,32 +35,45 @@ public class Principal {
         System.out.println("5. Salir");
         System.out.print("Elige una opción: ");
         Scanner sc = new Scanner(System.in);
-        int opcion = sc.nextInt();
+        int opcion;
+
+        opcion = sc.nextInt();
         return opcion;
     }
 
     public static double pideRadio() {
         Scanner sc = new Scanner(System.in);
+        double radio;
+
         System.out.print("Introduce el radio: ");
-        double radio = sc.nextDouble();
+        radio = sc.nextDouble();
         return radio;
     }
 
     public static double calcularCircunferencia(double r) {
-        double pi = 3.1416;
-        double resultadoCircunferencia = 2 * pi * r;
+        double pi;
+        double resultadoCircunferencia;
+
+        pi = 3.1416;
+        resultadoCircunferencia = 2 * pi * r;
         return resultadoCircunferencia;
     }
 
     public static double calcularArea(double r) {
-        double pi = 3.1416;
-        double resultadoArea = pi * r * r;
+        double pi;
+        double resultadoArea;
+
+        pi = 3.1416;
+        resultadoArea = pi * r * r;
         return resultadoArea;
     }
 
     public static double calcularVolumen(double r) {
-        double pi = 3.1416;
-        double resultadoVolumen = ((double) 4 / 3) * pi * r * r * r;
+        double pi;
+        double resultadoVolumen;
+
+        pi = 3.1416;
+        resultadoVolumen = ((double) 4 / 3) * pi * r * r * r;
         return resultadoVolumen;
     }
 
